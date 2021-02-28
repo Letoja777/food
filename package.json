@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Letoja777/food/issues"
   },
-  "homepage": "https://github.com/Letoja777/food#readme"
+  "homepage": "https://github.com/Letoja777/food#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
 }

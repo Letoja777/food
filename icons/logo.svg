@@ -65,11 +65,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/77932570/ws?session=eyJ2IjoiVjMiLCJ1Ijo3NzkzMjU3MCwicyI6NjM4ODUzMTE5LCJjIjoyMzEyNDY3MTM1LCJ0IjoxNjE0NDQzODg0fQ==--045fe242edb46a727cf7d2885f85098e4eff69b735c01c462b247b5d111f2709" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/77932570/ws?session=eyJ2IjoiVjMiLCJ1Ijo3NzkzMjU3MCwicyI6NjM4ODUzMTE5LCJjIjozMTgzNDk2NTI0LCJ0IjoxNjE0NTM2MzQ3fQ==--b5c473288de5ec5380c94072b2f5a7de18ca899a39f77c337a80d823ed8143e9" data-refresh-url="/_alive">
     <link rel="shared-web-socket-src" href="/socket-worker-5029ae85.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="2E1C:10C25:246AF1:2D5D2E:603A7567" data-pjax-transient="true" /><meta name="html-safe-nonce" content="34be770cc4f2537af2e561208da8654f6c47dabb62638d40957d1e25fe581469" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS95YW5rb3ZhbGVua285NC9KU190YXNrX2Fuc3dlcnMvdHJlZS9tYXN0ZXIvSlNfc3RlcF8xNS9Gb29kL2ljb25zIiwicmVxdWVzdF9pZCI6IjJFMUM6MTBDMjU6MjQ2QUYxOjJENUQyRTo2MDNBNzU2NyIsInZpc2l0b3JfaWQiOiI3MTQxMzUwNjA2OTU0NjY4OTk5IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="63461da1388132fe16a8178eb53dd107190b2e96deec83a23df6a897bbd2284b" data-pjax-transient="true" />
+  <meta name="request-id" content="6BEC:19FB:D49634:E76EB4:603BDE96" data-pjax-transient="true" /><meta name="html-safe-nonce" content="34be770cc4f2537af2e561208da8654f6c47dabb62638d40957d1e25fe581469" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS95YW5rb3ZhbGVua285NC9KU190YXNrX2Fuc3dlcnMvdHJlZS9tYXN0ZXIvSlNfc3RlcF8xNy9Gb29kL2ljb25zIiwicmVxdWVzdF9pZCI6IjZCRUM6MTlGQjpENDk2MzQ6RTc2RUI0OjYwM0JERTk2IiwidmlzaXRvcl9pZCI6IjcxNDEzNTA2MDY5NTQ2Njg5OTkiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="b2aa6fe00542d3d40761be5c8cee4712c4144f217d5f033d93ce6c1048726be5" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:180101215" data-pjax-transient>
 
@@ -108,7 +108,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MGY5ODYxZTBlNjY2ODFkZDIwYjJmOTRhMzA4NTAyMDUwYmNlZDZlZTY5YWMxMWE5ZDMzYTZlMjA4YWZiNGM1MXx7InJlbW90ZV9hZGRyZXNzIjoiOTMuNzkuMjEwLjIyMiIsInJlcXVlc3RfaWQiOiIyRTFDOjEwQzI1OjI0NkFGMToyRDVEMkU6NjAzQTc1NjciLCJ0aW1lc3RhbXAiOjE2MTQ0NDM4ODQsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="N2E2Yzk2NTA0OTRlMjYzZTZlZTFiMjg1MGIxNzkwMWI1NTk5MTUxOGNjNjA2Y2UwYzc0ZGY1YmQxZWNhMjcxZnx7InJlbW90ZV9hZGRyZXNzIjoiOTMuNzkuMjEwLjIyMiIsInJlcXVlc3RfaWQiOiI2QkVDOjE5RkI6RDQ5NjM0OkU3NkVCNDo2MDNCREU5NiIsInRpbWVzdGFtcCI6MTYxNDUzNjM0NywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS">
 
@@ -123,7 +123,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_15/Food/icons/logo.svg" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_17/Food/icons/logo.svg" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -197,7 +197,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="dprjDR/OiemlbMJgISYjhbKmUtNypc0q9GX0R6wkH0dmfEzSDFc83txe6BUFn/dKAiNDNTFWIRn9PtU6FQaAFg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="EIdHOrbUmx7SS5SKjjj+7eKhtl8voFj8kHBjay+JeOYAYejlpU0uKat5vv+qgSoiUiSnuWxTtM+ZK0IWlqvntw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -386,7 +386,7 @@
       <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/77932570?s=40&amp;v=4" width="20" height="20" alt="@Letoja777" />
       Letoja777
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oyE/SEqoJ5jNPgTK3s9AVUm1bxLBfjAeRwIzaNDrbsl5YsyF/9KTxPlojG038xwhMLHQBFWyRskYSkrIdvO1Pg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NykV7l5YfGrpZP9fuFSpEcuLDncxyrAhxQ9Uixv6H7HtauYj6yLINt0yd/hRaPVlso+xYaUGxvaaRy0rveLERg==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -406,7 +406,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Nzc5MzI1NzAiLCJ0IjoxNjE0NDQzODg0fQ==--bd4418f1b49b5179ad64d1c92498631677456e42a3eca4558ac377f06d940d18">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Nzc5MzI1NzAiLCJ0IjoxNjE0NTM2MzQ3fQ==--31f27233c56bc1586b85020c45fb45c6387fe90ab9d479660b6c0fd1ef6c5235">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -548,10 +548,10 @@
       <p class="shelf-lead">
           Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
       </p>
-      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_15/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="befd9ae3292f57860a5a462b0ffb047fa52dc7c52c763f0bd3493dcdb1cb76ce" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
+      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_17/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="f15c95ef07e9b93065c32c1c390f9c0948676a0360ba23600570289834731797" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="p5t8tvN5hpqdwnfPW5j8/pxfCj+ZniE5dnuZJOYZhczyQ/AG0sIYXWHVIxGf53edDRVe/YPKNrtjG/5Wlytl7w==" />
-      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_15/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="547ba14d0cb79d0ef7c0e668c99b2c946ecbc619733aa78e59ac82c4c128a57e">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="iDS74EBWucEgMiS9CXX5dYj4OfrilofPlJL9jFgckG7d7DdQYe0nBtwlcGPNCnIWGbJtOPjCkE2B8pr+KS5wTQ==" />
+      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_17/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="9134ba029d55a7fd67611732fb60402734dec68484e5a4e3a05cd63eaa86a64c">
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 16 16" version="1.1" width="16" height="16" role="img"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
 </button></form>  </div>
 </div>
@@ -594,7 +594,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_15/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="b46e796d7e32ea67366db3d44eb36e9d901954182a464e7c5366e687987fa6ac" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_17/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="c2d672743c7051a71795e4c3092ae88b42bb768987e6eb8a1c38d29949224d0a" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
               hidden
@@ -638,7 +638,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XjMkTZ9NLfzp3YYK3DXRM4gfgfCchD/VwZDddT9qoe2i4b68FsC6Zk8ue4SGYP394wreqKVkQ0fre0NuFwPhiw==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QUWPNpmfIKMCUD2AJlTntBbDvEPEcz8G+aHjXeYRiZ+9lxXHEBK3OaSjwA58Act6fdbjG/2TQ5TTSn1GznjJ+Q==" />
 
                 <input type="hidden" name="repository_id" value="180101215">
 
@@ -740,7 +740,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7gj0qvCO7ulYmbHwBz7pTJn0yOdatx4gKAZ9cZlUOq4S2m5beQN5c/5qTH5da8WC8uGXv2NXYrIC7eNqsT16yA==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oPs9MTDxHCOsrqHpUT6yQXQxVE4VfJlod1HhxS3cMqBcKafAuXyLuQpdXGcLa56PHyQLFiyc5fpdun/eBbVyxg==" />
 
               <input type="hidden" name="repository_id" value="180101215">
 
@@ -876,9 +876,9 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/yankovalenko94/JS_task_answers/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fK17sazLwTNWkP74AM2+4PiUq2A7aBA7xwF7+mRUMaWtDLw5FtwBfSNc6nuXH0aM8xJ7aWFAwWAhS/Al0rAkPw==" />
+    <form class="starred js-social-form" action="/yankovalenko94/JS_task_answers/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="V9uAPAuIS3D+mxhhrz0OjJtxjpNwy3AUtHTjYyEwMJWGeke0sZ+LPotXDOI47/bgkPdemirjoU9SPmi8l9QlDw==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar yankovalenko94/JS_task_answers" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_15/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="60f6ac7d385b5962da0b32ff88cc623f4492a56f72df4dc060671b6e11aff7f3" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar yankovalenko94/JS_task_answers" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_17/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="26887db6134ded2f600f2f009d5cabeedcb6e48b931f5cefa045a6359bdda44c" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         <span>
           Unstar
 </span></button>        <a class="social-count js-social-count" href="/yankovalenko94/JS_task_answers/stargazers"
@@ -886,9 +886,9 @@
            138
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/yankovalenko94/JS_task_answers/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GXkxEJn5z218aqJCxpaib15QIM9BjkK2o8ZGccAqXa6Mui0jnGoDQxjcz1IKPeDo/EEHF/dYQctdJaA2qtIU5Q==" />
+    <form class="unstarred js-social-form" action="/yankovalenko94/JS_task_answers/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TuXP+IX+TGgJVNxnqb8tQLKB5ThuA5M/P86V2GeUHGbbJtPLgG2ARm3isXdlFG/HEJDC4NjVkELBLXOfDWxVLQ==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star yankovalenko94/JS_task_answers" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_15/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="bc8da56cce37750c1b92a9c8f59925d7aa2a95584de2474953fc15ee5b1ad6ca" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star yankovalenko94/JS_task_answers" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_17/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="86a46399015dca127c4761fb9d8af67b1e313cf3e659e409226d95b33b8b348f" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         <span>
           Star
 </span></button>        <a class="social-count js-social-count" href="/yankovalenko94/JS_task_answers/stargazers"
@@ -900,13 +900,13 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/yankovalenko94/JS_task_answers/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TF4qQeXglci181eEzjZDJcjniiM0eOGKj6MM2RT5t2SE6/mq07RvVcphH8YgvwgOREnq6vS3BoWjAzfCYmxuaA==" />
-              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_15/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="a803f5ffff304224469b686a553369da99cfa875d44404c9209bab07cccf7401" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of yankovalenko94/JS_task_answers to your account" aria-label="Fork your own copy of yankovalenko94/JS_task_answers to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/yankovalenko94/JS_task_answers/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nOtUP76Qs+MqYot+cgz6UaG4w/YIyaExUmuUanXgTRpUXofUiMRJflXwwzychbF6LRajP8gGRj5+y69xA3WUFg==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_17/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="eddb055cded3f27c17dca00596940f9a39f7e0204c978f8ff6e1be5e32ab046e" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of yankovalenko94/JS_task_answers to your account" aria-label="Fork your own copy of yankovalenko94/JS_task_answers to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
                 Fork
 </button></form>
       <a href="/yankovalenko94/JS_task_answers/network/members" class="social-count"
-         aria-label="339 users forked this repository">
-        339
+         aria-label="343 users forked this repository">
+        343
       </a>
   </li>
 </ul>
@@ -1043,9 +1043,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/yankovalenko94/JS_task_answers/blob/bec35a53098d12fc28744761365495798934c9db/JS_step_15/Food/icons/logo.svg">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/yankovalenko94/JS_task_answers/blob/bec35a53098d12fc28744761365495798934c9db/JS_step_17/Food/icons/logo.svg">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:c7df537207988bb08fe4cd72c00db0565b7a4f7f575debfa225a73adacdd992a -->
+    <!-- blob contrib key: blob_contributors:v22:1e8e0afd38de549dc91952e080e8467652af4f55c798923ea1288ffbc7bddcdc -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1121,7 +1121,7 @@
             </div>
 
             <template data-target="ref-selector.itemTemplate">
-              <a href="https://github.com/yankovalenko94/JS_task_answers/blob/{{ urlEncodedRefName }}/JS_step_15/Food/icons/logo.svg" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+              <a href="https://github.com/yankovalenko94/JS_task_answers/blob/{{ urlEncodedRefName }}/JS_step_17/Food/icons/logo.svg" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
                 <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
                 <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
                 <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span> 
@@ -1153,7 +1153,7 @@
             </template>
 
             <template data-target="ref-selector.itemTemplate">
-              <a href="https://github.com/yankovalenko94/JS_task_answers/blob/{{ urlEncodedRefName }}/JS_step_15/Food/icons/logo.svg" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+              <a href="https://github.com/yankovalenko94/JS_task_answers/blob/{{ urlEncodedRefName }}/JS_step_17/Food/icons/logo.svg" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
                 <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
                 <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
                 <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span>
@@ -1182,7 +1182,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/yankovalenko94/JS_task_answers"><span>JS_task_answers</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/yankovalenko94/JS_task_answers/tree/master/JS_step_15"><span>JS_step_15</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/yankovalenko94/JS_task_answers/tree/master/JS_step_15/Food"><span>Food</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/yankovalenko94/JS_task_answers/tree/master/JS_step_15/Food/icons"><span>icons</span></a></span><span class="separator">/</span><strong class="final-path">logo.svg</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/yankovalenko94/JS_task_answers"><span>JS_task_answers</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/yankovalenko94/JS_task_answers/tree/master/JS_step_17"><span>JS_step_17</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/yankovalenko94/JS_task_answers/tree/master/JS_step_17/Food"><span>Food</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/yankovalenko94/JS_task_answers/tree/master/JS_step_17/Food/icons"><span>icons</span></a></span><span class="separator">/</span><strong class="final-path">logo.svg</strong>
       </h2>
       <a href="/yankovalenko94/JS_task_answers/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -1197,7 +1197,7 @@
 </summary>  <div>
     <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_15/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="2ff3c4cbf831f619c30dec85cf4aad8cf07dfda989c068a9b71e56dc8d43a500" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/yankovalenko94/JS_task_answers/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:180101215,&quot;originating_url&quot;:&quot;https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_17/Food/icons/logo.svg&quot;,&quot;user_id&quot;:77932570}}" data-hydro-click-hmac="e49c5f43dc211a66593703252cb3d613b08d6c2cca023eab376918764e354b75" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/yankovalenko94/JS_task_answers/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -1211,7 +1211,7 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="JS_step_15/Food/icons/logo.svg" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="JS_step_17/Food/icons/logo.svg" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
@@ -1221,7 +1221,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/yankovalenko94/JS_task_answers/contributors/master/JS_step_15/Food/icons/logo.svg" class="commit-loader">
+      <include-fragment src="/yankovalenko94/JS_task_answers/contributors/master/JS_step_17/Food/icons/logo.svg" class="commit-loader">
         <div class="Box-header Box-header--blue d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1252,18 +1252,18 @@
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
       <div class="BtnGroup">
         <a class="btn btn-sm BtnGroup-item tooltipped tooltipped tooltipped-n source "
-          href="/yankovalenko94/JS_task_answers/blob/master/JS_step_15/Food/icons/logo.svg?short_path=29f6f63" aria-label="Display the source blob">
+          href="/yankovalenko94/JS_task_answers/blob/master/JS_step_17/Food/icons/logo.svg?short_path=29f6f63" aria-label="Display the source blob">
           <svg class="octicon octicon-code" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path></svg>
         </a>
         <a class="btn btn-sm BtnGroup-item tooltipped tooltipped-n rendered selected"
-          href="/yankovalenko94/JS_task_answers/blob/master/JS_step_15/Food/icons/logo.svg" aria-label="Display the rendered blob">
+          href="/yankovalenko94/JS_task_answers/blob/master/JS_step_17/Food/icons/logo.svg" aria-label="Display the rendered blob">
           <svg class="octicon octicon-file" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path></svg>
         </a>
       </div>
 
     <div class="BtnGroup">
-      <a href="/yankovalenko94/JS_task_answers/raw/master/JS_step_15/Food/icons/logo.svg" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/yankovalenko94/JS_task_answers/blame/master/JS_step_15/Food/icons/logo.svg" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+      <a href="/yankovalenko94/JS_task_answers/raw/master/JS_step_17/Food/icons/logo.svg" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
+        <a href="/yankovalenko94/JS_task_answers/blame/master/JS_step_17/Food/icons/logo.svg" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
     </div>
 
     <div>
@@ -1275,13 +1275,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/yankovalenko94/JS_task_answers/edit/master/JS_step_15/Food/icons/logo.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zZUba1LWYELhh3c1Ima+2JathLTFSTW7t1pmkA/xpGjBXFlQOFCgZ7VzD0XmqXlaUzpTzx3X8oePHCPCP2KGLQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/yankovalenko94/JS_task_answers/edit/master/JS_step_17/Food/icons/logo.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iCO+5aDSB3AY72459mFw4KEpHg1OyF5FSbOq9PE12hcQ0meQv+MxMOpCq6Wy9s3qYK7cvZVJbx4j32hx8CK0cg==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/yankovalenko94/JS_task_answers/delete/master/JS_step_15/Food/icons/logo.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HlLVVWAOy+soi3UtpWScpC+xcsdBhGK36aKqeKZTC7vu5h09AkNtx3KfpYBmOD4OuoFyssXwakbukXiFhx80tg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/yankovalenko94/JS_task_answers/delete/master/JS_step_17/Food/icons/logo.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZCt14ZKb6l4sVEbIPkbo0OHSbee7OYstug5rZ1CId9ZA/qzD2cihmTMTh14LnCdAzRjBMzKaRQyjeqivD/n0kw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -1296,7 +1296,7 @@
       
   <div class="render-wrapper ">
     <div class="render-container is-render-pending js-render-target  "
-      data-identity="066c7187-fc28-4f83-91ff-086378abfc69"
+      data-identity="636cbfaf-b8f8-4421-bc7a-b31f24a5d97f"
       data-host="https://render.githubusercontent.com"
       data-type="svg">
       <svg style="box-sizing: content-box; color: var(--color-icon-primary);" viewBox="0 0 16 16" fill="none" width="64" height="64" class="octospinner mx-auto">
@@ -1305,10 +1305,10 @@
     <animateTransform attributeName="transform" type="rotate" from="0 8 8" to="360 8 8" dur="1s" repeatCount="indefinite" />
   </path>
 </svg>
-      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_15/Food/icons/logo.svg">Reload?</a></div>
+      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/yankovalenko94/JS_task_answers/blob/master/JS_step_17/Food/icons/logo.svg">Reload?</a></div>
       <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
       <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
-      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/svg?color_mode=light&amp;commit=bec35a53098d12fc28744761365495798934c9db&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f79616e6b6f76616c656e6b6f39342f4a535f7461736b5f616e73776572732f626563333561353330393864313266633238373434373631333635343935373938393334633964622f4a535f737465705f31352f466f6f642f69636f6e732f6c6f676f2e737667&amp;nwo=yankovalenko94%2FJS_task_answers&amp;path=JS_step_15%2FFood%2Ficons%2Flogo.svg&amp;repository_id=180101215&amp;repository_type=Repository#066c7187-fc28-4f83-91ff-086378abfc69" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
+      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/svg?color_mode=light&amp;commit=bec35a53098d12fc28744761365495798934c9db&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f79616e6b6f76616c656e6b6f39342f4a535f7461736b5f616e73776572732f626563333561353330393864313266633238373434373631333635343935373938393334633964622f4a535f737465705f31372f466f6f642f69636f6e732f6c6f676f2e737667&amp;nwo=yankovalenko94%2FJS_task_answers&amp;path=JS_step_17%2FFood%2Ficons%2Flogo.svg&amp;repository_id=180101215&amp;repository_type=Repository#636cbfaf-b8f8-4421-bc7a-b31f24a5d97f" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
           Viewer requires iframe.
       </iframe>
     </div>
